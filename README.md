@@ -1,2 +1,2 @@
 # axyl-hyprland
-Hyprland Configurations for Axyl
+Hyprland configurations for Axyl
