@@ -1,4 +1,4 @@
 # axyl-hyprland
 Hyprland configurations for Axyl
 
-![git](/Assets/recording_AdobeExpress.gif)
+![git](/Assets/hyprland.gif)
